@@ -8,7 +8,7 @@
 
 - Клонирование удаленного репозитория
 ```bash
-git clone git@github.com:viator3m/foodgram-project-react.git
+git clone git@github.com:Danila747/foodgram-project-react.git
 cd infra
 ```
 - В директории /infra создайте файл .env, с переменными окружения, как .env.example
