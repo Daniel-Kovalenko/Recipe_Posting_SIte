@@ -1,4 +1,4 @@
-![workflow status](https://github.com/viator3m/foodgram-project-react/actions/workflows/foodgram_workflow.yml/badge.svg)
+![workflow status](https://github.com/Danila747/foodgram-project-react/actions/workflows/foodgram_workflow.yml/badge.svg)
 
 ### Проект Foodgram – Продуктовый помощник
 На этом сервисе пользователи смогут публиковать рецепты, подписываться 
