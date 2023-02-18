@@ -39,7 +39,7 @@ class RecipeViewSet(viewsets.ModelViewSet):
     """Вьюсет для работы с рецептами.
      Обработка запросов создания/получения/редактирования/удаления рецептов
      Добавление/удаление рецепта в избранное и список покупок"""
-    queryset = Recipe.objects.all()
+    queryset = Recipe.objects.select_related('author', 'Ingredient')
     serializer_class = RecipeSerializer
     filter_backends = (DjangoFilterBackend,)
     filterset_class = RecipeFilter
