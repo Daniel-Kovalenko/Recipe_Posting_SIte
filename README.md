@@ -1,4 +1,4 @@
-#EN
+# EN
 ## Foodgram Project – Grocery Assistant
 
 ###On this service, users will be able to publish recipes, subscribe
@@ -51,7 +51,7 @@ python manage.py load_data
 python manage.py runserver 
 ```
 
-#DE
+# DE
 ## Das Foodgram-Projekt ist ein Lebensmittelassistent
 
 ###Auf diesem Dienst können Benutzer Rezepte veröffentlichen, abonnieren 
