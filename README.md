@@ -1,10 +1,10 @@
 # EN
 ## Foodgram Project – Grocery Assistant
 
-###On this service, users will be able to publish recipes, subscribe
+### On this service, users will be able to publish recipes, subscribe
 to other users' publications, etc.
 
-###The user can also create a list of products and add the ingredients needed for the recipe there.
+### The user can also create a list of products and add the ingredients needed for the recipe there.
 
 - Cloning a remote repository
 ```bash
@@ -54,7 +54,7 @@ python manage.py runserver
 # DE
 ## Das Foodgram-Projekt ist ein Lebensmittelassistent
 
-###Auf diesem Dienst können Benutzer Rezepte veröffentlichen, abonnieren 
+### Auf diesem Dienst können Benutzer Rezepte veröffentlichen, abonnieren 
 auf die Veröffentlichung anderer Benutzer usw.
 
 ###
